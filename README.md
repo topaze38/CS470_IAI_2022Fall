@@ -8,7 +8,7 @@
 - [Tutorial 3](tutorial_3/README.md)
 
 # Assignment Links
-- [Assignment 1](https://github.com/pidipidi/CS470_IAI_2022Fall/blob/main/assignment_1/mlp_problem.ipynb/)
+- [Assignment 1](https://githubtocolab.com/pidipidi/CS470_IAI_2022Fall/blob/main/assignment_1/mlp_problem.ipynb/)
 - [Assignment 2](https://github.com/pidipidi/CS470_IAI_2022Fall/blob/main/assignment_2/CNN_problem.ipynb/)
 - [Assignment 3](assignment_3/README.md)
 - [Assignment 4](assignment_4/README.md)
